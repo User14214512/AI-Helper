@@ -1,11 +1,5 @@
 **❌❌❌ WARNING THIS PROGRAM REQUIRES AN OPENAI KEY PLEASE GET ONE <a href="https://platform.openai.com/account/api-keys" />HERE ❌❌❌**
 
-**❌❌❌ ALSO NOTE THAT THIS IS A BETA TESTING RELEASE SO BUGS AND WEIRD GLITCHES ARE GOING TO BE COMMON ❌❌❌** 
-
-# Jump-to
-<a href="https://github.com/DumbTost/AIHelper#usage">Usage</a>
-
-<a href="https://github.com/DumbTost/AIHelper#instalation">Installation</a>
 
 <a href="https://github.com/DumbTost/AIHelper#faq">FAQ</a>
 
